@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-nunit/commit/3890ee8ed438794e3ab153bd08c8b0c52c4e5dc0",
       "git:hexsha": "3890ee8ed438794e3ab153bd08c8b0c52c4e5dc0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.0.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.0.7",
+      "repolex:parsedAt": "2026-10-11T09:05:02.383817+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-nunit/commit/62999b5897205c2b84f10e91289bf00cb9b23fc4",
